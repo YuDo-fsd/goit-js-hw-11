@@ -27,7 +27,8 @@ body {
   padding: 10px;
 }
 .search-form input {
-  font-size: 15px;
+  margin-right: 10px;
+  font-size: 17px;
 }
 
 .gallery {

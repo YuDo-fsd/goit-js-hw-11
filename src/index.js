@@ -14,7 +14,7 @@ const refs = {
 const lightbox = new SimpleLightbox('.gallery a', {
   animationSlide: false,
   captionsData: 'alt',
-  captionDelay: 250,
+  captionDelay: 200,
 });
 
 let searchValue = '';
