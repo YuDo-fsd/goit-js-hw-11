@@ -2,8 +2,8 @@ import SimpleLightbox from 'simplelightbox';
 // Додатковий імпорт стилів
 import 'simplelightbox/dist/simple-lightbox.min.css';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
-import { galleryPictureCard } from './css/js-modules/galleryPictureCard';
-import { fetchPhoto } from './css/js-modules/apiAxios';
+import { galleryPictureCard } from './js-modules/galleryPictureCard';
+import { fetchPhoto } from './js-modules/apiAxios';
 
 const refs = {
   form: document.querySelector('#search-form'),
